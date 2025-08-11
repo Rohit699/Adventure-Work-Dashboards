@@ -1,2 +1,2 @@
 # Adventure-Work-Dashboards
-This project follows up all the process ETL where the extraction of raw data ,transformation of data happens and the formation of data in dashboards for useful insights happen. 
+This project presents useful insights from the raw data of adventure works, where they sell accessories related to adventurous equipment.  
