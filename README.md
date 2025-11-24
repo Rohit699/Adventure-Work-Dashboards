@@ -1,12 +1,87 @@
-# Adventure-Work-Dashboards
-This project presents useful insights from the raw data of Adventure Works, where they sell accessories related to adventurous equipment.  
+# 📊 Adventure Works Business Intelligence Project
 
-The whole data of adventure works concisely converted into dashboards named the exec dashboard, map, product details and customer details.
+### *Built using Microsoft Power BI Desktop*
 
-Exec Dashboard: presents data for senior executives and provides useful insights like total revenue, total orders, return rate and all . This dashboard presents data on a broader perspective.  
+[![Power
+BI](https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow)]()\
+[![Data
+Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-blue)]()\
+[![DAX](https://img.shields.io/badge/DAX-Measures%20%26%20KPIs-green)]()\
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 
-Map Dashboard: express a visual of data continent-wise wise i.e, from which continent adventure works have high sales and revenue.
+## 📘 Project Overview
 
-Product Details: This dashboard represents data in a product granular manner, where we can clearly see the sales trend of the product weekly, monthly, and yearly. and which product stands out the most.
+This project is based on the Adventure Works dataset and completed as
+part of the Udemy course **Microsoft Power BI Desktop for Business
+Intelligence**.\
+It showcases end-to-end BI development including ETL, data modeling, DAX
+calculations, and dashboard creation.
 
-Customer Details: This dashboard presents all the data of the customer in the most efficient visual manner which make it super eaasy to understand for anyone.
+## 🗂️ Dataset
+
+Includes customer, sales, product, geography, and calendar information
+from the AdventureWorksDW data warehouse.
+
+## 🛠️ Skills Demonstrated
+
+### Power Query
+
+-   Data cleaning & transformation\
+-   Merging and appending queries\
+-   Custom columns
+
+### Data Modeling
+
+-   Star schema design\
+-   Fact & dimension table relationships\
+-   Cardinality and cross-filtering
+
+### DAX Measures
+
+-   Total Sales\
+-   Profit and Margin\
+-   YTD, QTD, MTD\
+-   YoY comparison\
+-   Segmentation metrics
+
+### Dashboards
+
+-   Sales Performance\
+-   Customer Insights\
+-   Product Analysis\
+-   Regional Analysis\
+-   Time Intelligence
+
+## 📊 Business Insights
+
+-   Monthly & seasonal sales trends\
+-   Top-selling products & categories\
+-   Region-wise sales contribution\
+-   Profit leaders and laggards\
+-   Customer purchase behavior
+
+## 📁 Project Structure
+
+    📦 AdventureWorks-PowerBI-Project
+    │── README.md
+    │── AdventureWorks.pbix
+    │── data/
+    │── images/
+    │── dax/
+
+## 🚀 How to Use
+
+1.  Download the `.pbix` file\
+2.  Open with Power BI Desktop\
+3.  Refresh data if needed\
+4.  Explore interactive visuals
+
+## 📚 Course Reference
+
+*Microsoft Power BI Desktop for Business Intelligence -- Udemy (Maven
+Analytics)*
+
+## 👤 Author
+
+Rohit Gupta\
+LinkedIn: (add your link)
