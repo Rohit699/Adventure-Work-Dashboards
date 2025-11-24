@@ -11,11 +11,9 @@ Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-blue)]()\
 
 ## 📘 Project Overview
 
-This project is based on the Adventure Works dataset and completed as
-part of the Udemy course **Microsoft Power BI Desktop for Business
-Intelligence**.\
-It showcases end-to-end BI development including ETL, data modeling, DAX
-calculations, and dashboard creation.
+This project is based on the Adventure Works dataset, which is a company that deals with adventure sports equipment.
+It showcases end-to-end BI development, including ETL, data modeling, DAX calculations,
+and dashboard creation.
 
 ## 🗂️ Dataset
 
@@ -26,38 +24,38 @@ from the AdventureWorksDW data warehouse.
 
 ### Power Query
 
--   Data cleaning & transformation\
--   Merging and appending queries\
+-   Data cleaning & transformation
+-   Merging and appending queries
 -   Custom columns
 
 ### Data Modeling
 
--   Star schema design\
--   Fact & dimension table relationships\
+-   Star schema design
+-   Fact & dimension table relationships
 -   Cardinality and cross-filtering
 
 ### DAX Measures
 
--   Total Sales\
--   Profit and Margin\
--   YTD, QTD, MTD\
--   YoY comparison\
+-   Total Sales
+-   Profit and Margin
+-   YTD, QTD, MTD
+-   YoY comparison
 -   Segmentation metrics
 
 ### Dashboards
 
--   Sales Performance\
--   Customer Insights\
--   Product Analysis\
--   Regional Analysis\
+-   Sales Performance
+-   Customer Insights
+-   Product Analysis
+-   Regional Analysis
 -   Time Intelligence
 
 ## 📊 Business Insights
 
--   Monthly & seasonal sales trends\
--   Top-selling products & categories\
--   Region-wise sales contribution\
--   Profit leaders and laggards\
+-   Monthly & seasonal sales trends
+-   Top-selling products & categories
+-   Region-wise sales contribution
+-   Profit leaders and laggards
 -   Customer purchase behavior
 
 ## 📁 Project Structure
@@ -71,15 +69,15 @@ from the AdventureWorksDW data warehouse.
 
 ## 🚀 How to Use
 
-1.  Download the `.pbix` file\
-2.  Open with Power BI Desktop\
-3.  Refresh data if needed\
+1.  Download the `.pbix` file
+2.  Open with Power BI Desktop
+3.  Refresh data if needed
 4.  Explore interactive visuals
 
 
 
 ## 👤 Contact
 
-Rohit Gupta\
+Rohit Gupta
 - LinkedIn: https://www.linkedin.com/in/rohitgupta0079/
 - Gmail: rohitgupta12380@gmail.com
