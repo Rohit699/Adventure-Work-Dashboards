@@ -28,7 +28,7 @@ The goal of this project is to design a complete end-to-end Business Intelligenc
 This project demonstrates industry-standard BI practices and showcases professional Power BI skills suitable for real-world analytical roles.
 
 ## ❓ Business Questions to Answer
-- Sales Performance
+**Sales Performance**
 
 - What are the total sales, profit, and margin over time?
 
@@ -36,7 +36,7 @@ This project demonstrates industry-standard BI practices and showcases professio
 
 - What is the YoY and MoM growth?
 
-- Product Insights
+**Product Insights**
 
 - Which products and categories generate the most revenue?
 
@@ -44,7 +44,7 @@ This project demonstrates industry-standard BI practices and showcases professio
 
 - What is the distribution of product performance?
 
-- Customer Insights
+ **Customer Insights**
 
 - Who are the top customers by sales?
 
@@ -52,13 +52,13 @@ This project demonstrates industry-standard BI practices and showcases professio
 
 - Which customer segments contribute the most?
 
-- Geographical Performance
+ **Geographical Performance**
 
 - Which regions drive the highest sales?
 
 - How do different markets perform compared to each other?
 
-- Time Intelligence
+  **Time Intelligence**
 
 - What are the YTD, QTD, MTD trends?
 
@@ -83,13 +83,39 @@ from the AdventureWorksDW data warehouse.
 -   Fact & dimension table relationships
 -   Cardinality and cross-filtering
 
-### DAX Measures
+### Keys KPI (DAX Measures)
 
--   Total Sales
--   Profit and Margin
--   YTD, QTD, MTD
--   YoY comparison
--   Segmentation metrics
+**Core Sales Metrics**
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Average Order Value
+
+**Growth Metrics**
+- YoY Sales Growth %
+- MoM Sales Growth %
+- YTD Sales
+- QTD Sales
+- MTD Sales
+
+**Customer Metrics**
+- Customer Count
+- Customer Lifetime Value
+- Top N Customers Contribution %
+
+**Product Metrics**
+- Top N Products
+- Product Profitability
+- Category Sales Contribution %
+
+**Geographical Metrics**
+- Region-wise Sales
+- Country Contribution %
+
+**YoY comparison**
+
+**Segmentation metrics**
+
 
 ### Dashboards
 
