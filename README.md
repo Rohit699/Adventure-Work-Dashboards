@@ -76,12 +76,10 @@ from the AdventureWorksDW data warehouse.
 3.  Refresh data if needed\
 4.  Explore interactive visuals
 
-## 📚 Course Reference
 
-*Microsoft Power BI Desktop for Business Intelligence -- Udemy (Maven
-Analytics)*
 
-## 👤 Author
+## 👤 Contact
 
 Rohit Gupta\
-LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/rohitgupta0079/
+- Gmail: rohitgupta12380@gmail.com
